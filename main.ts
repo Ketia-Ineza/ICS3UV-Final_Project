@@ -1,4 +1,4 @@
-// Simple To-Do List Program
+// Student To-Do List Program
 
 var tasks = ["Math homework", "English reading", "Science study"];
 var completed = [false, false, false];
